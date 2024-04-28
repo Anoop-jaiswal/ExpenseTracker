@@ -41,3 +41,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 2 - hyperui.dev
 
 #authentication - clerk authentication
+#icon lib - lucid
+#template - hyperUi
