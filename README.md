@@ -39,3 +39,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 #tools used
 1 - shadcnUi
 2 - hyperui.dev
+
+#authentication - clerk authentication
