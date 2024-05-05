@@ -43,3 +43,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 #authentication - clerk authentication
 #icon lib - lucid
 #template - hyperUi
+#ORM - drizzle orm
+#database - postgres Sql
+#neon.tech for postrgres
