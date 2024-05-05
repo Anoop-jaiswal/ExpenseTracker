@@ -5,4 +5,4 @@ import * as schema from "./schema";
 const sql = neon(
   "postgresql://neondb_owner:Eu1Z7pVKeFla@ep-late-math-a50qvgjn.us-east-2.aws.neon.tech/Expense-Tracker?sslmode=require"
 );
-const db = drizzle(sql, { schema });
+export const db = drizzle(sql, { schema });
